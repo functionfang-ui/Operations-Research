@@ -6,7 +6,7 @@ import numpy as np
 """
 editor:     方晓坤(Fang Xiaokun)
 studentID:  2018202046
-data:       2020/4/19
+date:       2020/4/19
 """
 
 def inPut():
